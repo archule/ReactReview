@@ -3,8 +3,8 @@ Questions to review the React library
 
 ### Table of Contents
 
-| No. | Questions                                                                                                                                                      | 1   | [What is React?](#what-is-react)
-| 2   | [What is a Component?](#what-is-a-component)  
+| No. | Questions                                                                                                                                                      | 1   | [What is React?](#what-is-react)\
+| 2   | [What is a Component?](#what-is-a-component) 
 
 ## Core React
 
