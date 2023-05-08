@@ -13,7 +13,7 @@ Questions to review the React library
      
     **[⬆ Back to Top](#table-of-contents)**
 2.  ### What is a component?
-     A javascript component is a javascript function that performs rendering by returning a tree of react elements that React should display. 
+     A React component is a javascript function or class that performs rendering by returning a tree of react elements that React should display. 
      
     **[⬆ Back to Top](#table-of-contents)**
 
